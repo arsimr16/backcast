@@ -13,7 +13,6 @@ var SearchView = Backbone.View.extend({
   },
 
   handleClick: function() {
-    
   },
 
   template: templateURL('src/templates/search.html')
