@@ -3,7 +3,7 @@ var VideoListEntryView = Backbone.View.extend({
     'click .video-list-entry-title': 'handleSelect'
   },
 
-  initialize: function(video) {
+  initialize: function() {
     this.render();
   },
 
